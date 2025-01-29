@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL Files 
+__pycache__/
+*.py[cod]
+*$py.class 
+
+#Caches 
+*.sqlite3
+*.log
+
+# Django stuff:
+*.pot
+*.pot
+__pycache__/
+db.sqlite3
+/static/
+/media/
+
+# Virtual environments
+meuambiente/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+#IDEs and editors 
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Os Files
+.DS_Store
+Thumbs.db
+
+#secrets
+.env
